@@ -1,0 +1,8 @@
+== application started at Jan 01 2017 19:27:54
+PSFClient 0.6.2 rev 0 (devel) built on Jul  8 2013 for arch x86
+ERROR: Failed to load script 'init.lua': LUA ERROR:
+/init.lua:31: attempt to call field 'loadSettings' (a nil value)
+stack traceback:
+	[C]: in function 'loadSettings'
+	/init.lua:31: in main chunk
+FATAL ERROR: Unable to run script init.lua!

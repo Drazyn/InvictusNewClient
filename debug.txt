@@ -1,0 +1,2 @@
+err: egl::Surface::initialize(109): Unable to set present parameters: 0x80004001
+err: gl::VertexBuffer::VertexBuffer(585): Out of memory allocating a vertex buffer of size 1048576.
