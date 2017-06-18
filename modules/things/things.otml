@@ -1,0 +1,350 @@
+items
+  10568
+    opacity: 0.6
+    full-ground: false
+  11856
+    opacity: 0.6
+    full-ground: false
+  10539
+    opacity: 0.6
+    full-ground: false
+  10950
+    opacity: 0.6
+    full-ground: false
+  11857
+    opacity: 0.6
+    full-ground: false
+  11261
+    opacity: 0.6
+    full-ground: false
+  12664
+    opacity: 0.6
+    full-ground: false
+  12665
+    opacity: 0.6
+    full-ground: false
+  10961
+    opacity: 0.6
+    full-ground: false
+  10951
+    opacity: 0.6
+    full-ground: false
+  12666
+    opacity: 0.6
+    full-ground: false
+  11271
+    opacity: 0.6
+    full-ground: false
+  11269
+    opacity: 0.6
+    full-ground: false
+  11580
+    opacity: 0.6
+    full-ground: false
+  12667
+    opacity: 0.6
+    full-ground: false
+  12675
+    opacity: 0.6
+    full-ground: false
+  11551
+    opacity: 0.6
+    full-ground: false
+  11549
+    opacity: 0.6
+    full-ground: false
+  12668
+    opacity: 0.6
+    full-ground: false
+  12056
+    opacity: 0.6
+    full-ground: false
+  
+creatures
+  2129
+    opacity: 0.8
+  666
+    opacity: 0.75
+  1487
+    opacity: 0.9
+  1488
+    opacity: 0.9
+  1243
+    opacity: 0.9
+  1244
+    opacity: 0.9
+  82
+    opacity: 0.8
+  2099
+    opacity: 0.82
+  1475
+    opacity: 0.82
+  1581
+    opacity: 0.82
+  579
+    opacity: 0.92
+  595
+    opacity: 0.68
+  2130
+    opacity: 0.8
+  399
+    opacity: 0.74
+  643
+    opacity: 0.82
+  1474
+    opacity: 0.75
+  644
+    opacity: 0.85
+  908
+    opacity: 0.82
+  583
+    opacity: 0.85
+  416
+    opacity: 0.86
+  584
+    opacity: 0.85
+  1398
+    opacity: 0.7
+  1288
+    opacity: 0.76
+  
+effects
+  121
+    opacity: 0.6
+  122
+    opacity: 0.6
+  123
+    opacity: 0.6
+  124
+    opacity: 0.6
+  125
+    opacity: 0.6
+  126
+    opacity: 0.6
+  127
+    opacity: 0.6
+  35
+    opacity: 0.92
+  9
+    opacity: 0.7
+  36
+    opacity: 0.72
+  144
+    opacity: 0.6
+  37
+    opacity: 0.6
+  38
+    opacity: 0.6
+  39
+    opacity: 0.6
+  40
+    opacity: 0.6
+  41
+    opacity: 0.9
+  164
+    opacity: 0.6
+  170
+    opacity: 0.6
+  172
+    opacity: 0.6
+  688
+    opacity: 0.84
+  354
+    opacity: 0.83
+  182
+    opacity: 0.6
+  855
+    opacity: 0.56
+  47
+    opacity: 0.6
+  188
+    opacity: 0.6
+  48
+    opacity: 0.9
+  49
+    opacity: 0.6
+  50
+    opacity: 0.6
+  51
+    opacity: 0.6
+  204
+    opacity: 0.6
+  52
+    opacity: 0.6
+  785
+    opacity: 0.76
+  53
+    opacity: 0.6
+  771
+    opacity: 0.72
+  214
+    opacity: 0.6
+  623
+    opacity: 0.75
+  55
+    opacity: 0.69
+  676
+    opacity: 0.8
+  56
+    opacity: 0.68
+  689
+    opacity: 0.84
+  687
+    opacity: 0.84
+  678
+    opacity: 0.8
+  58
+    opacity: 0.77
+  232
+    opacity: 0.6
+  677
+    opacity: 0.8
+  236
+    opacity: 0.6
+  690
+    opacity: 0.84
+  698
+    opacity: 0.9
+  61
+    opacity: 0.68
+  249
+    opacity: 0.9
+  62
+    opacity: 0.67
+  248
+    opacity: 0.6
+  63
+    opacity: 0.67
+  16
+    opacity: 0.9
+  64
+    opacity: 0.67
+  65
+    opacity: 0.6
+  66
+    opacity: 0.6
+  67
+    opacity: 0.6
+  135
+    opacity: 0.6
+  69
+    opacity: 0.6
+  675
+    opacity: 0.8
+  141
+    opacity: 0.72
+  614
+    opacity: 0.85
+  145
+    opacity: 0.6
+  613
+    opacity: 0.85
+  19
+    opacity: 0.6
+  151
+    opacity: 0.76
+  611
+    opacity: 0.85
+  612
+    opacity: 0.85
+  157
+    opacity: 0.6
+  543
+    opacity: 0.82
+  235
+    opacity: 0.6
+  163
+    opacity: 0.6
+  365
+    opacity: 0.78
+  364
+    opacity: 0.78
+  169
+    opacity: 0.6
+  171
+    opacity: 0.6
+  22
+    opacity: 0.6
+  363
+    opacity: 0.78
+  78
+    opacity: 0.7
+  355
+    opacity: 0.83
+  181
+    opacity: 0.6
+  183
+    opacity: 0.6
+  251
+    opacity: 0.6
+  6
+    opacity: 0.69
+  250
+    opacity: 0.6
+  629
+    opacity: 0.85
+  97
+    opacity: 0.67
+  98
+    opacity: 0.67
+  99
+    opacity: 0.6
+  247
+    opacity: 0.6
+  242
+    opacity: 0.6
+  102
+    opacity: 0.6
+  239
+    opacity: 0.6
+  412
+    opacity: 0.76
+  231
+    opacity: 0.6
+  229
+    opacity: 0.72
+  27
+    opacity: 0.6
+  187
+    opacity: 0.77
+  194
+    opacity: 0.6
+  7
+    opacity: 0.76
+  221
+    opacity: 0.6
+  223
+    opacity: 0.6
+  193
+    opacity: 0.6
+  227
+    opacity: 0.6
+  115
+    opacity: 0.6
+  116
+    opacity: 0.6
+  117
+    opacity: 0.9
+  118
+    opacity: 0.6
+  150
+    opacity: 0.76
+  120
+    opacity: 0.6
+  68
+    opacity: 0.6
+  
+missiles
+  4
+    opacity: 0.8
+  45
+    opacity: 0.6
+  5
+    opacity: 0.72
+  42
+    opacity: 0.6
+  135
+    opacity: 0.6
+  41
+    opacity: 0.6
+  
